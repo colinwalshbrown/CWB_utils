@@ -5,3 +5,12 @@ sequencing. These were created for my personal use, so I make no claims
 about their correctness, efficiency, or portability. 
 
 All works subject to the MIT open-source license (see CWB_utils/LICENSE.txt)
+
+*KNOWN DEPENDENCIES*
+
+- python2.7
+- sqlite3
+- numpy / scipy
+- matplotlib
+- pytables
+- cython
